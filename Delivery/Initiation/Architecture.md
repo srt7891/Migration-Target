@@ -1,0 +1,1 @@
+Follow the sub pages to get more details on Architecture patterns, decisions made, Common practices, etc 
